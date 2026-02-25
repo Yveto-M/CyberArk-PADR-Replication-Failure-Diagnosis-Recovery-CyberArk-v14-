@@ -1,11 +1,8 @@
-# CyberArk-PADR-Replication-Failure-Diagnosis-Recovery-CyberArk-v14-
+# CyberArk PADR Replication Failure Diagnosis Recovery-CyberArk-v14
 
 
+![PADR Full Replication Completed Successfully](<img width="963" height="403" alt="Screenshot 2026-02-25 141701" src="https://github.com/user-attachments/assets/9da850b3-34f3-46a1-a980-64de27fc4c74" />)
 
-# CyberArk PADR Replication Failure — Diagnosis & Recovery
-**CyberArk v14 Lab | February 2026**
-
-![PADR Full Replication Completed Successfully](Screenshot-2026-02-25-141701.jpg)
 
 ---
 
